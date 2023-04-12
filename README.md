@@ -11,5 +11,5 @@ The "Team Page" is one of the Responsive Design implementation challenge on [Dev
 
 ## Live Demo
 
-[devchallengesteampage](devchallengesteampage.netlify.app)
+ here is my live implementation [devchallengesteampage](https://devchallengesteampage.netlify.app/)
 
