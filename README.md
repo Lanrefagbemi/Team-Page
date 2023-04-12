@@ -9,3 +9,7 @@ The "Team Page" is one of the Responsive Design implementation challenge on [Dev
 - Css Grid
 - Flexbox
 
+## Live Demo
+
+[devchallengesteampage](devchallengesteampage.netlify.app)
+
